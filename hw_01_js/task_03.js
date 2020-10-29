@@ -1,4 +1,4 @@
-const userPassword = 'null';
+const userPassword = 'jqueryismyjam';
 
 const ADMIN_PASSWORD = 'jqueryismyjam';
 
